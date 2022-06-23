@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev@hypntc.com)](mailto:dev@hypntc.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-zorn-06213020b/)](https://www.linkedin.com/in/felix-zorn-06213020b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/i_am_hypntc)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iamhypntc)
 
 ![](https://komarev.com/ghpvc/?username=hypntc)
 [![wakatime](https://wakatime.com/badge/user/ad70fdc4-0867-45be-8b1f-e921acf3fdcb.svg)](https://wakatime.com/@ad70fdc4-0867-45be-8b1f-e921acf3fdcb)
